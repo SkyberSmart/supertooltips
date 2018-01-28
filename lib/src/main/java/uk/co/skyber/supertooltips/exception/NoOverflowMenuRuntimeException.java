@@ -1,4 +1,4 @@
-package com.nhaarman.supertooltips.exception;
+package uk.co.skyber.supertooltips.exception;
 
 /**
  * A {@link RuntimeException} that is thrown if the overflow menu is not

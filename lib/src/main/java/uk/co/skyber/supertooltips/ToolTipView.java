@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.nhaarman.supertooltips;
+package uk.co.skyber.supertooltips;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -34,16 +34,8 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-//import com.nineoldandroids.animation.Animator;
-//import com.nineoldandroids.animation.AnimatorListenerAdapter;
-//import com.nineoldandroids.animation.AnimatorSet;
-//import com.nineoldandroids.animation.ObjectAnimator;
-//import com.nineoldandroids.view.ViewHelper;
-
 import java.util.ArrayList;
 import java.util.Collection;
-
-//import com.nhaarman.supertooltips.R;
 
 /**
  * A ViewGroup to visualize ToolTips. Use

@@ -1,4 +1,4 @@
-package com.haarman.supertooltips;
+package uk.co.skyber.tooltiptestapp;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -6,9 +6,9 @@ import android.os.Handler;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.nhaarman.supertooltips.ToolTip;
-import com.nhaarman.supertooltips.ToolTipRelativeLayout;
-import com.nhaarman.supertooltips.ToolTipView;
+import uk.co.skyber.supertooltips.ToolTip;
+import uk.co.skyber.supertooltips.ToolTipRelativeLayout;
+import uk.co.skyber.supertooltips.ToolTipView;
 
 public class MainActivity extends Activity implements View.OnClickListener, ToolTipView.OnToolTipViewClickedListener {
 

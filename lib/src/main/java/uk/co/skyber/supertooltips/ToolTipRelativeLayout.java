@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.nhaarman.supertooltips;
+package uk.co.skyber.supertooltips;
 
 import android.annotation.TargetApi;
 import android.app.ActionBar;
@@ -25,9 +25,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 
-import com.nhaarman.supertooltips.exception.NoOverflowMenuRuntimeException;
-import com.nhaarman.supertooltips.exception.NoTitleViewRuntimeException;
-import com.nhaarman.supertooltips.exception.ViewNotFoundRuntimeException;
+import uk.co.skyber.supertooltips.exception.NoOverflowMenuRuntimeException;
+import uk.co.skyber.supertooltips.exception.NoTitleViewRuntimeException;
+import uk.co.skyber.supertooltips.exception.ViewNotFoundRuntimeException;
 
 public class ToolTipRelativeLayout extends RelativeLayout {
 
